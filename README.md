@@ -1,7 +1,8 @@
-### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZedongJia&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
-**ZedongJia/ZedongJia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zxnstc/zxnstc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning at Nankai University.
+- 💬 Ask me about anything you want to know
